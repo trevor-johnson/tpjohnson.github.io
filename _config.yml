@@ -108,7 +108,7 @@ analytics:
 author:
   name             : "Trevor Johnson"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Actuary with interests in financial trading, sports statistics and data science"
+  bio              : "Actuary with interests in financial trading, sports statistics, and data science"
   location         : "San Francisco, CA"
   email            : "trevorjohnson.tj@gmail.com"
   links:
@@ -118,6 +118,9 @@ author:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/trevorpjohnson/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -293,3 +296,11 @@ defaults:
       comments: # true
       share: true
       related: true
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
