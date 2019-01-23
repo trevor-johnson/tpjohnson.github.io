@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Trevor Johnson"
+title                    : "Home"
 title_separator          : "-"
 name                     : "Trevor Johnson"
 description              : "Personal Portfolio"
@@ -296,7 +296,7 @@ defaults:
       comments: # true
       share: true
       related: true
-      
+
   # _pages
   - scope:
       path: ""
