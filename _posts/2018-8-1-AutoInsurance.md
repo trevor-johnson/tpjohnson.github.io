@@ -2,8 +2,6 @@
 title: "Auto Insurance Trend Analysis"
 date: 2018-8-1
 tags: [SOA, CAS, actuary, trends]
-header:
-    image: "/images/trend.JPG"
 excerpt: "Trend analysis for the SOA"
 ---
 
