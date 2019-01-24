@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name             : "Trevor Johnson"
-  avatar           : "/images/seattle.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/seattle_small.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Actuary | Data Scientist | Sports Statitistics Enthusiast"
   location         : "San Francisco, CA"
   email            : "trevorjohnson.tj@gmail.com"
