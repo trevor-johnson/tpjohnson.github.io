@@ -1,7 +1,7 @@
 ---
 title: "Microsoft Program Usage Analysis"
 date: 2018-8-1
-tags: [Machine-learning, data-viz, R, RShiny]
+tags: [machine-learning, data-viz, R, RShiny]
 excerpt: "Web app created for Microsoft featuring interactive ML tools"
 ---
 
