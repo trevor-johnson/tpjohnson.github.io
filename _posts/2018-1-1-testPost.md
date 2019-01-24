@@ -1,10 +1,10 @@
 ---
-title: "new post"
+title: "Auto Insurance Trend Analysis"
 date: 2018-1-2
 tags: [SOA, CAS, actuary, trends]
 header:
-    image: "/images/trendSnippet.jpg"
-excerpt: "Trend analysis"
+    image: "/images/trendSnippet.JPG"
+excerpt: "Trend analysis for the SOA"
 ---
 
 <h3>Auto Insurance Forecast for the SOA and CAS</h3>

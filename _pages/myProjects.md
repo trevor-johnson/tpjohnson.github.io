@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /Projects/
+permalink: /myProjects/
 title: "Projects"
 author_profile: true
 header:
