@@ -27,3 +27,13 @@ My web dashboard as well as other analyses done by my colleagues were presented 
 
 <a href="https://trevorjohnson.shinyapps.io/jta_app/" title="Microsoft App" target="_blank">Microsoft App</a>
 
+___
+
+<h3>Kaggle Competition</h3>
+
+<h5>Porto Seguro Auto Insurance Prediction Challenge</h5>
+This competition, hosted by Kaggle, was to build the most accurate model to predict the probability that a given policy holder files a claim. The variable details are hidden for data confidentiality. I used this challenge to explain the model building and testing process as well as perform an exploratory analysis of the data. I test out linear, recursive partitioning, and random forest models on the data.
+
+<a href = "https://tpjohnson.github.io/kagglePortoSeguro/#" title = "Auto Insurance Prediction Challenge" target = "_blank">Auto Insurance Prediction Challenge</a>
+
+
