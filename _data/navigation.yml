@@ -4,8 +4,6 @@ main:
     url: /about/
   - title: "All Projects"
     url: /allProjects/
-  - title: "Actuarial Study Guides"
-    url: /ActuarialStudyGuides/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"

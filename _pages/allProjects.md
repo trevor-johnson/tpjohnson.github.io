@@ -36,4 +36,10 @@ This competition, hosted by Kaggle, was to build the most accurate model to pred
 
 <a href = "https://tpjohnson.github.io/kagglePortoSeguro/#" title = "Auto Insurance Prediction Challenge" target = "_blank">Auto Insurance Prediction Challenge</a>
 
+___
 
+<h3>Actuarial Exam Study Guides</h3>
+
+These aren't meant to be entirely emmersive of the exam material, rather an overview of important formulas.
+
+<a href = "/_pages/actuarialStudyGuides/IFM.html">IFM (Incomplete)</a>
