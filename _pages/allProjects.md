@@ -40,6 +40,6 @@ ___
 
 <h3>Actuarial Exam Study Guides</h3>
 
-These aren't meant to be entirely emmersive of the exam material, rather an overview of important formulas.
+These aren't meant to be entirely emmersive of the exam material, but rather an overview of important formulas.
 
 <a href = "/_pages/actuarialStudyGuides/IFM.html">IFM (Incomplete)</a>
